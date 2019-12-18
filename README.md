@@ -1,4 +1,4 @@
-# Full-Featured Blogging Website | Python Django | Edward Yuen
+# Full-Featured Blogging Website | Python Django
 
 This is a full-featured blog that was made using Python Django on a Model-View-Template architecture.
 
